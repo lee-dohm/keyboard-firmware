@@ -7,15 +7,54 @@ This is the keyboard firmware definition for my primary keyboard. This is curren
 
 ## Layout
 
-* Layer 0 &mdash; Dvorak layout with alterations for the Ergodox keyboard
-* Layer 1 &mdash; Cursor navigation and function keys
-* Layer 2 &mdash; Numeric keypad
-* Layer 3 &mdash; Qwerty layout for when others need to use my keyboard or for playing video games that lack the ability to remap keys
-
-See [the PDF][pdf] for details. Or [view on the configurator][my-layout] to base your own layout on mine.
+See [the PDF][pdf] for the full layout, including all layers. Or [view on the configurator][my-layout] to base your own layout on mine.
 
 [my-layout]: https://configure.ergodox-ez.com/layouts/Dwgq/latest/0
 [pdf]: ./keyboard-firmware.pdf
+
+### Features
+
+#### Layer 0 &mdash; Dvorak
+
+This is designed as a fairly standard typing layout. The primary goal was to move the keys as little as possible from their typical locations on a standard Dvorak keyboard layout to minimize the errors that would occur when forced to use a standard keyboard, such as on a laptop in meetings.
+
+**Notes:**
+
+* <kbd>Esc</kbd> is placed to the right of <kbd>5</kbd> to make it easily accessible and to allow the <kbd>\`</kbd> to remain in its standard position to the left of <kbd>1</kbd>
+* <kbd>\</kbd> was placed to the left of <kbd>A</kbd> because I don't use <kbd>Caps Lock</kbd> and it is fairly commonly used in programming, so I wanted it on one of the two main key clusters
+* <kbd>Space</kbd> is placed in the primary location on the right thumb cluster since, like most touch typists, I was trained to use only my right thumb to press the space bar
+* <kbd>Enter</kbd> is placed in the secondary location on the right thumb cluster so that <kbd>-</kbd> can remain to the right of <kbd>S</kbd>
+* <kbd>Backspace</kbd> and <kbd>Delete</kbd> are in the primary and secondary locations on the left thumb cluster to keep them convenient and it makes a kind of sense that they oppose <kbd>Space</kbd> and <kbd>Enter</kbd>
+* <kbd>Volume Up</kbd>, <kbd>Volume Down</kbd>, <kbd>Mute</kbd>, and <kbd>Play</kbd> are on the right thumb cluster
+* <kbd>Home</kbd>, <kbd>End</kbd>, <kbd>Page Up</kbd>, and <kbd>Page Down</kbd> are located on the left thumb cluster so that they are available because some applications explicitly use them
+
+#### Layer 1 &mdash; Arrows
+
+The intent of this layer is to give easy access the standard macOS keyboard navigation combinations, specifically the <kbd>Shift</kbd>, <kbd>Option</kbd>, and <kbd>Cmd</kbd> modifiers and the four arrow keys. <kbd>Ctrl</kbd> is not used in keyboard navigation on macOS, so it doesn't have a special place on this layer.
+
+**Notes:**
+
+* Activating this layer is achieved by holding down either bottom vertical long key in the main key cluster on either hand
+* macOS keyboard navigation is achieved with the fingers of the right hand on the home row in a WASD-style pattern and the fingers of the left hand moved to the bottom right of the main key cluster so the index finger is on the layer shift key and the other three fingers are on <kbd>Cmd</kbd>, <kbd>Option</kbd>, and <kbd>Shift</kbd>. This allows the formation of all cursor navigation combinations, using combinations of <kbd>Cmd</kbd>, <kbd>Option</kbd>, and the arrow keys, and all navigation with selection combinations by including <kbd>Shift</kbd>
+* This layer also has video brightness controls in the same locations as the <kbd>Volume Up</kbd> and <kbd>Volume Down</kbd> keys in Layer 0
+* This layer also includes the Ergodox EZ Shine LED controls
+
+#### Layer 2 &mdash; Numeric keypad
+
+The design here is to center the numeric keypad on the middle finger of the right hand, just as it would be for touch-typing numeric entry on a standard keyboard.
+
+**Notes:**
+
+* Activating this layer is by toggle using the key to the left of <kbd>6</kbd>
+* Because this layer is rarely used and only by the right hand, I placed <kbd>Reset</kbd> on this layer in the upper-left corner of the main key cluster of the left hand. <kbd>Reset</kbd> puts the keyboard into bootloader mode so that a new firmware can be flashed without having to find a paperclip and trigger the hardware button.
+
+#### Layer 3 &mdash; QWERTY layout
+
+This layer simply provides QWERTY-compatibility in those situations where I need the keys to be in their standard locations. This is typically for video games.
+
+**Notes:**
+
+* Activating this layer is by toggle using the key to the right of <kbd>5</kbd> on Layer 1. This can be toggled quickly by using the left thumb on the Layer 1 modifier key and then the left index finger on the Layer 3 toggle
 
 ## Installation
 
