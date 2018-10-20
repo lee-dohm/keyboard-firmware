@@ -7,8 +7,14 @@ This is the keyboard firmware definition for my primary keyboard. This is curren
 
 ## Layout
 
-See [the PDF][pdf] for details.
+* Layer 0 &mdash; Dvorak layout with alterations for the Ergodox keyboard
+* Layer 1 &mdash; Cursor navigation and function keys
+* Layer 2 &mdash; Numeric keypad
+* Layer 3 &mdash; Qwerty layout for when others need to use my keyboard or for playing video games that lack the ability to remap keys
 
+See [the PDF][pdf] for details. Or [view on the configurator][my-layout] to base your own layout on mine.
+
+[my-layout]: https://configure.ergodox-ez.com/layouts/o5vP/latest/0
 [pdf]: ./keyboard-firmware.pdf
 
 ## Installation
