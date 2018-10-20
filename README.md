@@ -14,7 +14,7 @@ This is the keyboard firmware definition for my primary keyboard. This is curren
 
 See [the PDF][pdf] for details. Or [view on the configurator][my-layout] to base your own layout on mine.
 
-[my-layout]: https://configure.ergodox-ez.com/layouts/QlMz/latest/0
+[my-layout]: https://configure.ergodox-ez.com/layouts/Dwgq/latest/0
 [pdf]: ./keyboard-firmware.pdf
 
 ## Installation
