@@ -27,6 +27,11 @@ This is designed as a fairly standard typing layout. The primary goal was to mov
 * <kbd>Backspace</kbd> and <kbd>Delete</kbd> are in the primary and secondary locations on the left thumb cluster to keep them convenient and it makes a kind of sense that they oppose <kbd>Space</kbd> and <kbd>Enter</kbd>
 * <kbd>Volume Up</kbd>, <kbd>Volume Down</kbd>, <kbd>Mute</kbd>, and <kbd>Play</kbd> are on the right thumb cluster
 * <kbd>Home</kbd>, <kbd>End</kbd>, <kbd>Page Up</kbd>, and <kbd>Page Down</kbd> are located on the left thumb cluster so that they are available because some applications explicitly use them
+* The two <kbd>Hyper</kbd> modifiers are a combination of <kbd>Shift</kbd>, <kbd>Ctrl</kbd>, <kbd>Option</kbd>, and <kbd>Cmd</kbd>. They are designed to create OS-wide key combinations. I use them for things like:
+    * <kbd>Hyper+B</kbd> to launch my browser
+    * <kbd>Hyper+T</kbd> to launch my terminal
+    * <kbd>Hyper+E</kbd> to launch my text editor
+    * <kbd>Hyper+Space</kbd> to launch Alfred
 
 #### Layer 1 &mdash; Arrows
 
