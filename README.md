@@ -21,7 +21,7 @@ This is designed as a fairly standard typing layout. The primary goal was to mov
 **Notes:**
 
 * <kbd>Esc</kbd> is placed to the right of <kbd>5</kbd> to make it easily accessible and to allow the <kbd>\`</kbd> to remain in its standard position to the left of <kbd>1</kbd>
-* <kbd>\</kbd> was placed to the left of <kbd>A</kbd> because I don't use <kbd>Caps Lock</kbd> and it is fairly commonly used in programming, so I wanted it on one of the two main key clusters
+* <kbd>\\</kbd> was placed to the left of <kbd>A</kbd> because I don't use <kbd>Caps Lock</kbd> and it is fairly commonly used in programming, so I wanted it on one of the two main key clusters
 * <kbd>Space</kbd> is placed in the primary location on the right thumb cluster since, like most touch typists, I was trained to use only my right thumb to press the space bar
 * <kbd>Enter</kbd> is placed in the secondary location on the right thumb cluster so that <kbd>-</kbd> can remain to the right of <kbd>S</kbd>
 * <kbd>Backspace</kbd> and <kbd>Delete</kbd> are in the primary and secondary locations on the left thumb cluster to keep them convenient and it makes a kind of sense that they oppose <kbd>Space</kbd> and <kbd>Enter</kbd>
