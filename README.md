@@ -5,7 +5,7 @@ This is the keyboard firmware definition for my primary keyboard. This is curren
 [configurator]: https://configure.ergodox-ez.com/layouts/default/latest/0
 [ergodox]: https://ergodox-ez.com/
 
-## Layout
+## Ergodox Layout
 
 See [the PDF][pdf] for the full layout, including all layers. Or [view on the configurator][my-layout] to base your own layout on mine.
 
@@ -63,7 +63,6 @@ This layer simply provides QWERTY-compatibility in those situations where I need
 
 ## Installation
 
-Download the flashing tool from the Ergodox EZ website and use the `*.hex` file to update the firmware.
+Download the [flashing tool](https://ergodox-ez.com/pages/wally?mc_cid=f143adc401&mc_eid=9c22d0ce78) from the Ergodox EZ website and use the `*.hex` file to update the firmware.
 
-* [Flashing instructions](https://www.youtube.com/watch?v=9PyiGUO9_KQ)
 * [Test the new firmware](http://www.keyboardtester.com/tester.html)
