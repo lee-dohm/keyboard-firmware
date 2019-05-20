@@ -37,7 +37,7 @@ This is designed as a fairly standard typing layout. The primary goal was to mov
 
 #### Layer 1 &mdash; Arrows &mdash; Red shine
 
-The intent of this layer is to give easy access the standard macOS keyboard navigation combinations, specifically the <kbd>Shift</kbd>, <kbd>Option</kbd>, and <kbd>Cmd</kbd> modifiers and the four arrow keys. <kbd>Ctrl</kbd> is not used in keyboard navigation on macOS, so it doesn't have a special place on this layer.
+The intent of this layer is to give easy access to the standard macOS keyboard navigation combinations, specifically the <kbd>Shift</kbd>, <kbd>Option</kbd>, and <kbd>Cmd</kbd> modifiers and the four arrow keys. <kbd>Ctrl</kbd> is not used in keyboard navigation on macOS, so it doesn't have a special place on this layer.
 
 **Notes:**
 
