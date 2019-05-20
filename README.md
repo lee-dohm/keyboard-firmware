@@ -14,7 +14,9 @@ See [the PDF][ergodox-pdf] for the full layout, including all layers. Or [view o
 
 ### Features
 
-#### Layer 0 &mdash; Dvorak
+Each layer has been customized with a background shine to indicate which layer the keyboard is on.
+
+#### Layer 0 &mdash; Dvorak &mdash; No shine
 
 This is designed as a fairly standard typing layout. The primary goal was to move the keys as little as possible from their typical locations on a standard Dvorak keyboard layout to minimize the errors that would occur when forced to use a standard keyboard, such as on a laptop in meetings.
 
@@ -33,7 +35,7 @@ This is designed as a fairly standard typing layout. The primary goal was to mov
     * <kbd>Hyper+E</kbd> to launch my text editor
     * <kbd>Hyper+Space</kbd> to launch Alfred
 
-#### Layer 1 &mdash; Arrows
+#### Layer 1 &mdash; Arrows &mdash; Red shine
 
 The intent of this layer is to give easy access the standard macOS keyboard navigation combinations, specifically the <kbd>Shift</kbd>, <kbd>Option</kbd>, and <kbd>Cmd</kbd> modifiers and the four arrow keys. <kbd>Ctrl</kbd> is not used in keyboard navigation on macOS, so it doesn't have a special place on this layer.
 
@@ -44,7 +46,7 @@ The intent of this layer is to give easy access the standard macOS keyboard navi
 * This layer also has video brightness controls in the same locations as the <kbd>Volume Up</kbd> and <kbd>Volume Down</kbd> keys in Layer 0
 * This layer also includes the Ergodox EZ Shine LED controls
 
-#### Layer 2 &mdash; Numeric keypad
+#### Layer 2 &mdash; Numeric keypad &mdash; Green shine
 
 The design here is to center the numeric keypad on the middle finger of the right hand, just as it would be for touch-typing numeric entry on a standard keyboard.
 
@@ -53,7 +55,7 @@ The design here is to center the numeric keypad on the middle finger of the righ
 * Activating this layer is by toggle using the key to the left of <kbd>6</kbd>
 * Because this layer is rarely used and only by the right hand, I placed <kbd>Reset</kbd> on this layer in the upper-left corner of the main key cluster of the left hand. <kbd>Reset</kbd> puts the keyboard into bootloader mode so that a new firmware can be flashed without having to find a paperclip and trigger the hardware button.
 
-#### Layer 3 &mdash; QWERTY layout
+#### Layer 3 &mdash; QWERTY layout &mdash; Blue shine
 
 This layer simply provides QWERTY-compatibility in those situations where I need the keys to be in their standard locations. This is typically for video games.
 
@@ -61,7 +63,7 @@ This layer simply provides QWERTY-compatibility in those situations where I need
 
 * Activating this layer is by toggle using the key to the right of <kbd>5</kbd> on Layer 1. This can be toggled quickly by using the left thumb on the Layer 1 modifier key and then the left index finger on the Layer 3 toggle
 
-#### Layer 4 &mdash; QWERTY function keys
+#### Layer 4 &mdash; QWERTY function keys &mdash; Magenta shine
 
 This layer allows access to standard F-keys (and `PrintScr`) for games that use them.
 
