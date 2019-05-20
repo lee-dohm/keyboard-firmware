@@ -7,10 +7,10 @@ This is the keyboard firmware definition for my primary keyboard. This is curren
 
 ## Ergodox Layout
 
-See [the PDF][pdf] for the full layout, including all layers. Or [view on the configurator][my-layout] to base your own layout on mine.
+See [the PDF][ergodox-pdf] for the full layout, including all layers. Or [view on the configurator][ergodox-layout] to base your own layout on mine.
 
-[my-layout]: https://configure.ergodox-ez.com/layouts/Dwgq/latest/0
-[pdf]: ./keyboard-firmware.pdf
+[ergodox-layout]: https://configure.ergodox-ez.com/layouts/bvZRp/latest/0
+[ergodox-pdf]: ./keyboard-layout.pdf
 
 ### Features
 
@@ -60,6 +60,14 @@ This layer simply provides QWERTY-compatibility in those situations where I need
 **Notes:**
 
 * Activating this layer is by toggle using the key to the right of <kbd>5</kbd> on Layer 1. This can be toggled quickly by using the left thumb on the Layer 1 modifier key and then the left index finger on the Layer 3 toggle
+
+#### Layer 4 &mdash; QWERTY function keys
+
+This layer allows access to standard F-keys (and `PrintScr`) for games that use them.
+
+**Notes:**
+
+* Activating this layer is achieved by holding down the lower-left-most key on the left hand when already in QWERTY mode on Layer 3. Release it to return to Layer 3.
 
 ## Installation
 
