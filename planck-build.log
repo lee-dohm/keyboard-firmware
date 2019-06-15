@@ -1,64 +1,64 @@
 QMK Firmware 0.6.356
-Making [1mplanck/ez[0m with keymap [1mab13970406047860f7af[0m
+Making [1mplanck/ez[0m with keymap [1m59b34aa8858546eae752[0m
 
 arm-none-eabi-gcc (15:5.4.1+svn241155-1) 5.4.1 20160919
 Copyright (C) 2015 Free Software Foundation, Inc.
 This is free software; see the source for copying conditions.  There is NO
 warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
-Compiling: quantum/audio/muse.c                                                                    Compiling: keyboards/planck/planck.c                                                               Compiling: keyboards/planck/ez/ez.c                                                                Compiling: quantum/quantum.c                                                                       Compiling: quantum/keymap_common.c                                                                 Compiling: keyboards/planck/keymaps/ab13970406047860f7af/keymap.c                                   [32;01m[OK][0m
+Compiling: quantum/audio/muse.c                                                                    Compiling: keyboards/planck/keymaps/59b34aa8858546eae752/keymap.c                                  Compiling: quantum/keymap_common.c                                                                 Compiling: keyboards/planck/ez/ez.c                                                                Compiling: quantum/quantum.c                                                                       Compiling: keyboards/planck/planck.c                                                                [32;01m[OK][0m
  [32;01m[OK][0m
-Compiling: quantum/keycode_config.c                                                                 [32;01m[OK][0m
-Compiling: quantum/matrix.c                                                                         [32;01m[OK][0m
-Compiling: quantum/debounce/sym_g.c                                                                Compiling: quantum/process_keycode/process_audio.c                                                  [32;01m[OK][0m
+Compiling: quantum/keycode_config.c                                                                Compiling: quantum/matrix.c                                                                         [32;01m[OK][0m
+Compiling: quantum/debounce/sym_g.c                                                                 [32;01m[OK][0m
  [32;01m[OK][0m
-Compiling: quantum/process_keycode/process_clicky.c                                                Compiling: quantum/audio/audio_arm.c                                                                [32;01m[OK][0m
-Compiling: quantum/audio/voices.c                                                                   [32;01m[OK][0m
-Compiling: quantum/audio/luts.c                                                                     [32;01m[OK][0m
+Compiling: quantum/process_keycode/process_audio.c                                                 Compiling: quantum/process_keycode/process_clicky.c                                                 [32;01m[OK][0m
+ [32;01m[OK][0m
+Compiling: quantum/audio/audio_arm.c                                                                [32;01m[OK][0m
+Compiling: quantum/audio/voices.c                                                                  Compiling: quantum/audio/luts.c                                                                     [32;01m[OK][0m
  [32;01m[OK][0m
 Compiling: quantum/process_keycode/process_music.c                                                  [32;01m[OK][0m
-Compiling: quantum/color.c                                                                         Compiling: quantum/rgb_matrix.c                                                                     [32;01m[OK][0m
+Compiling: quantum/rgb_matrix.c                                                                    Compiling: quantum/color.c                                                                          [32;01m[OK][0m
  [32;01m[OK][0m
 Compiling: quantum/rgb_matrix_drivers.c                                                             [32;01m[OK][0m
-Compiling: drivers/issi/is31fl3737.c                                                               Compiling: drivers/arm/i2c_master.c                                                                 [32;01m[OK][0m
-Compiling: quantum/led_tables.c                                                                     [32;01m[OK][0m
+Compiling: drivers/issi/is31fl3737.c                                                                [32;01m[OK][0m
  [32;01m[OK][0m
-Compiling: quantum/encoder.c                                                                        [32;01m[OK][0m
-Compiling: quantum/process_keycode/process_space_cadet.c                                           Compiling: tmk_core/common/host.c                                                                   [32;01m[OK][0m
-Compiling: tmk_core/common/keyboard.c                                                               [32;01m[OK][0m
+Compiling: drivers/arm/i2c_master.c                                                                Compiling: quantum/led_tables.c                                                                    Compiling: quantum/encoder.c                                                                        [32;01m[OK][0m
  [32;01m[OK][0m
-Compiling: tmk_core/common/action.c                                                                Compiling: tmk_core/common/action_tapping.c                                                         [32;01m[OK][0m
+Compiling: quantum/process_keycode/process_space_cadet.c                                            [32;01m[OK][0m
  [32;01m[OK][0m
-Compiling: tmk_core/common/action_macro.c                                                          Compiling: tmk_core/common/action_layer.c                                                           [32;01m[OK][0m
+Compiling: tmk_core/common/host.c                                                                  Compiling: tmk_core/common/keyboard.c                                                              Compiling: tmk_core/common/action.c                                                                 [32;01m[OK][0m
  [32;01m[OK][0m
+Compiling: tmk_core/common/action_tapping.c                                                        Compiling: tmk_core/common/action_macro.c                                                           [32;01m[OK][0m
  [32;01m[OK][0m
-Compiling: tmk_core/common/debug.c                                                                 Compiling: tmk_core/common/print.c                                                                 Compiling: tmk_core/common/action_util.c                                                            [32;01m[OK][0m
+Compiling: tmk_core/common/action_layer.c                                                           [32;01m[OK][0m
+Compiling: tmk_core/common/action_util.c                                                           Compiling: tmk_core/common/print.c                                                                  [32;01m[OK][0m
  [32;01m[OK][0m
- [32;01m[OK][0m
- [32;01m[OK][0m
-Compiling: tmk_core/common/report.c                                                                Compiling: tmk_core/common/util.c                                                                  Compiling: tmk_core/common/eeconfig.c                                                               [32;01m[OK][0m
-Compiling: tmk_core/common/chibios/suspend.c                                                       Compiling: tmk_core/common/chibios/timer.c                                                          [32;01m[OK][0m
+Compiling: tmk_core/common/debug.c                                                                  [32;01m[OK][0m
+Compiling: tmk_core/common/util.c                                                                   [32;01m[OK][0m
+Compiling: tmk_core/common/eeconfig.c                                                               [32;01m[OK][0m
+Compiling: tmk_core/common/report.c                                                                Compiling: tmk_core/common/chibios/suspend.c                                                        [32;01m[OK][0m
+Compiling: tmk_core/common/chibios/timer.c                                                          [32;01m[OK][0m
 Compiling: tmk_core/common/chibios/bootloader.c                                                     [32;01m[OK][0m
- [32;01m[OK][0m
 Compiling: tmk_core/common/chibios/printf.c                                                         [32;01m[OK][0m
-Compiling: tmk_core/common/chibios/eeprom_stm32.c                                                  Compiling: tmk_core/common/chibios/flash_stm32.c                                                    [32;01m[OK][0m
+Compiling: tmk_core/common/chibios/eeprom_stm32.c                                                   [32;01m[OK][0m
+ [32;01m[OK][0m
+Compiling: tmk_core/common/chibios/flash_stm32.c                                                    [32;01m[OK][0m
+ [32;01m[OK][0m
 Compiling: tmk_core/common/bootmagic.c                                                              [32;01m[OK][0m
- [32;01m[OK][0m
- [32;01m[OK][0m
-Compiling: tmk_core/protocol/usb_descriptor.c                                                      Compiling: tmk_core/protocol/chibios/usb_main.c                                                    Compiling: tmk_core/protocol/chibios/main.c                                                         [32;01m[OK][0m
+Compiling: tmk_core/protocol/chibios/usb_main.c                                                    Compiling: tmk_core/protocol/chibios/main.c                                                        Compiling: tmk_core/protocol/usb_descriptor.c                                                       [32;01m[OK][0m
  [32;01m[OK][0m
 Compiling: tmk_core/protocol/chibios/usb_driver.c                                                   [32;01m[OK][0m
  [32;01m[OK][0m
  [32;01m[OK][0m
  [32;01m[OK][0m
  [32;01m[OK][0m
-Linking: .build/planck_ez_ab13970406047860f7af.elf                                                  [32;01m[OK][0m
-Creating binary load file for flashing: .build/planck_ez_ab13970406047860f7af.bin                  Creating load file for flashing: .build/planck_ez_ab13970406047860f7af.hex                          [32;01m[OK][0m
+Linking: .build/planck_ez_59b34aa8858546eae752.elf                                                  [32;01m[OK][0m
+Creating binary load file for flashing: .build/planck_ez_59b34aa8858546eae752.bin                  Creating load file for flashing: .build/planck_ez_59b34aa8858546eae752.hex                          [32;01m[OK][0m
  [32;01m[OK][0m
 
 Size after:
    text	   data	    bss	    dec	    hex	filename
-      0	  49600	      0	  49600	   c1c0	.build/planck_ez_ab13970406047860f7af.hex
+      0	  49596	      0	  49596	   c1bc	.build/planck_ez_59b34aa8858546eae752.hex
 
-Copying planck_ez_ab13970406047860f7af.bin to qmk_firmware folder                                   [32;01m[OK][0m
+Copying planck_ez_59b34aa8858546eae752.bin to qmk_firmware folder                                   [32;01m[OK][0m
 (Firmware size check does not yet support cortex-m4 microprocessors; skipping.)
