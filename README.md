@@ -77,7 +77,7 @@ This layer allows access to standard F-keys (and `PrintScr`) for games that use 
 
 * Activating this layer is achieved by holding down the lower-left-most key on the left hand when already in QWERTY mode on Layer 3. Release it to return to Layer 3.
 
-## Planck EZ
+## Planck Layout
 
 View the layout on [the configurator][planck-layout]. I just got the thing, so the layout is going to be in significant flux for a while. When things settle down, I'll get around to documenting it like I did for the Ergodox.
 
