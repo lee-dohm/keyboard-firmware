@@ -1,9 +1,15 @@
 # Lee Dohm's Keyboard Firmware
 
-This is the keyboard firmware definition for my primary keyboard. This is currently an [Ergodox EZ Shine][ergodox] with Cherry MX Blue keyswitches. The firmware was built using the [Ergodox EZ Graphical Configurator][configurator].
+This is the keyboard firmware definition for keyboards:
+
+* [Ergodox EZ Shine][ergodox] with Cherry MX Blue keyswitches
+* [Planck EZ Glow][planck] with Cherry MX Brown keyswitches
+
+The firmware for both was built using the [ZSA Graphical Configurator][configurator].
 
 [configurator]: https://configure.ergodox-ez.com/layouts/default/latest/0
 [ergodox]: https://ergodox-ez.com/
+[planck]: https://ergodox-ez.com/pages/planck
 
 ## Ergodox Layout
 
@@ -71,8 +77,14 @@ This layer allows access to standard F-keys (and `PrintScr`) for games that use 
 
 * Activating this layer is achieved by holding down the lower-left-most key on the left hand when already in QWERTY mode on Layer 3. Release it to return to Layer 3.
 
+## Planck EZ
+
+View the layout on [the configurator][planck-layout]. I just got the thing, so the layout is going to be in significant flux for a while. When things settle down, I'll get around to documenting it like I did for the Ergodox.
+
+[planck-layout]: https://configure.ergodox-ez.com/planck-ez/layouts/bvOzV/latest/0
+
 ## Installation
 
-Download the [flashing tool](https://ergodox-ez.com/pages/wally?mc_cid=f143adc401&mc_eid=9c22d0ce78) from the Ergodox EZ website and use the `*.hex` file to update the firmware.
+Download the [flashing tool](https://ergodox-ez.com/pages/wally?mc_cid=f143adc401&mc_eid=9c22d0ce78) from the Ergodox EZ website and use the `*.hex` or `*.bin` file to update the firmware.
 
 * [Test the new firmware](http://www.keyboardtester.com/tester.html)
