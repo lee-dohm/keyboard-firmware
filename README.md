@@ -1,6 +1,6 @@
 # Lee Dohm's Keyboard Firmware
 
-This is the keyboard firmware definition for keyboards:
+This is the firmware definition for keyboards:
 
 * [Ergodox EZ Shine][ergodox] with Cherry MX Blue keyswitches
 * [Planck EZ Glow][planck] with Cherry MX Brown keyswitches
