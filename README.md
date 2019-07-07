@@ -79,9 +79,10 @@ This layer allows access to standard F-keys (and `PrintScr`) for games that use 
 
 ## Planck Layout
 
-View the layout on [the configurator][planck-layout]. I just got the thing, so the layout is going to be in significant flux for a while. When things settle down, I'll get around to documenting it like I did for the Ergodox.
+See [the PDF][planck-pdf] for the full layout, including all layers. Or [view on the configurator][planck-layout] to base your own layout on mine. I just got the thing, so the layout is going to be in significant flux for a while. When things settle down, I'll get around to documenting it like I did for the Ergodox.
 
 [planck-layout]: https://configure.ergodox-ez.com/planck-ez/layouts/yo0z0/latest/0
+[planck-pdf]: ./planck-layout.pdf
 
 ## Installation
 
