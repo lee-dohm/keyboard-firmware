@@ -16,7 +16,7 @@ The firmware for both was built using the [ZSA Graphical Configurator][configura
 See [the PDF][ergodox-pdf] for the full layout, including all layers. Or [view on the configurator][ergodox-layout] to base your own layout on mine.
 
 [ergodox-layout]: https://configure.ergodox-ez.com/layouts/bvZRp/latest/0
-[ergodox-pdf]: ./keyboard-layout.pdf
+[ergodox-pdf]: ./ergodox-layout.pdf
 
 ### Features
 
