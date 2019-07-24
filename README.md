@@ -15,7 +15,7 @@ The firmware for both was built using the [ZSA Graphical Configurator][configura
 
 See [the PDF][ergodox-pdf] for the full layout, including all layers. Or [view on the configurator][ergodox-layout] to base your own layout on mine.
 
-[ergodox-layout]: https://configure.ergodox-ez.com/layouts/bvZRp/latest/0
+[ergodox-layout]: https://configure.ergodox-ez.com/ergodox-ez/layouts/bvG0x/latest/0
 [ergodox-pdf]: ./ergodox-layout.pdf
 
 ### Features
@@ -81,7 +81,7 @@ This layer allows access to standard F-keys (and `PrintScr`) for games that use 
 
 See [the PDF][planck-pdf] for the full layout, including all layers. Or [view on the configurator][planck-layout] to base your own layout on mine. I just got the thing, so the layout is going to be in significant flux for a while. When things settle down, I'll get around to documenting it like I did for the Ergodox.
 
-[planck-layout]: https://configure.ergodox-ez.com/planck-ez/layouts/yo0z0/latest/0
+[planck-layout]: https://configure.ergodox-ez.com/planck-ez/layouts/yoxAo/latest/0
 [planck-pdf]: ./planck-layout.pdf
 
 ## Installation
