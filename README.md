@@ -3,12 +3,14 @@
 This is the firmware definition for my keyboards:
 
 * [Ergodox EZ Shine][ergodox] with Cherry MX Blue keyswitches
+* [Moonlander Mk I][moonlander] with Cherry MX Blue keyswitches
 * [Planck EZ Glow][planck] with Cherry MX Brown keyswitches
 
-The firmware for both was built using the [ZSA Graphical Configurator][configurator].
+The firmware for each was built using the [ZSA Graphical Configurator][configurator].
 
 [configurator]: https://configure.ergodox-ez.com/layouts/default/latest/0
 [ergodox]: https://ergodox-ez.com/
+[moonlander]: https://www.zsa.io/moonlander
 [planck]: https://ergodox-ez.com/pages/planck
 
 ## Ergodox Layout
@@ -76,6 +78,13 @@ This layer allows access to standard F-keys (and `PrintScr`) for games that use 
 **Notes:**
 
 * Activating this layer is achieved by holding down the lower-left-most key on the left hand when already in QWERTY mode on Layer 3. Release it to return to Layer 3.
+
+## Moonlander Layout
+
+See the PDF for the full layout, including all layers. Or [view on the configurator][moonlander-layout] to base your own layout on mine. I just got the thing, so the layout is going to be in significant flux for a while. When things settle down, I'll get around to documenting it like I did for the Ergodox.
+
+[moonlander-layout]: https://configure.ergodox-ez.com/moonlander/layouts/MJaqb/latest/0
+[moonlander-pdf]: ./moonlander-layout.pdf
 
 ## Planck Layout
 
