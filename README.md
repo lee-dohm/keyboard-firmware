@@ -81,7 +81,7 @@ This layer allows access to standard F-keys (and `PrintScr`) for games that use 
 
 ## Moonlander Layout
 
-See the PDF for the full layout, including all layers. Or [view on the configurator][moonlander-layout] to base your own layout on mine. I just got the thing, so the layout is going to be in significant flux for a while. When things settle down, I'll get around to documenting it like I did for the Ergodox.
+See [the PDF][moonlander-pdf] for the full layout, including all layers. Or [view on the configurator][moonlander-layout] to base your own layout on mine. I just got the thing, so the layout is going to be in significant flux for a while. When things settle down, I'll get around to documenting it like I did for the Ergodox.
 
 [moonlander-layout]: https://configure.ergodox-ez.com/moonlander/layouts/MJaqb/latest/0
 [moonlander-pdf]: ./moonlander-layout.pdf
