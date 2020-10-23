@@ -88,7 +88,7 @@ See [the PDF][moonlander-pdf] for the full layout, including all layers. Or [vie
 
 ## Planck Layout
 
-See [the PDF][planck-pdf] for the full layout, including all layers. Or [view on the configurator][planck-layout] to base your own layout on mine. I just got the thing, so the layout is going to be in significant flux for a while. When things settle down, I'll get around to documenting it like I did for the Ergodox.
+See [the PDF][planck-pdf] for the full layout, including all layers. Or [view on the configurator][planck-layout] to base your own layout on mine. Since this is a board that I exclusively use when I travel, I haven't really gotten a chance to truly refine the layout. When I do, I'll get around to documenting it like I did for the Ergodox.
 
 [planck-layout]: https://configure.ergodox-ez.com/planck-ez/layouts/yoxAo/latest/0
 [planck-pdf]: ./planck-layout.pdf
