@@ -6,7 +6,7 @@ This is the firmware definition for my keyboards:
 * [Moonlander Mk I][moonlander] with Cherry MX Blue keyswitches
 * [Planck EZ Glow][planck] with Cherry MX Brown keyswitches
 
-The firmware for each was built using the [ZSA Graphical Configurator][configurator].
+The firmware for each was built using the [ZSA Graphical Configurator][configurator] (aka "Oryx").
 
 [configurator]: https://configure.ergodox-ez.com/layouts/default/latest/0
 [ergodox]: https://ergodox-ez.com/
