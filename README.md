@@ -17,7 +17,7 @@ The firmware for each was built using the [ZSA Graphical Configurator][configura
 
 See [the PDF][ergodox-pdf] for the full layout, including all layers. Or [view on the configurator][ergodox-layout] to base your own layout on mine.
 
-[ergodox-layout]: https://configure.ergodox-ez.com/ergodox-ez/layouts/bvG0x/latest/0
+[ergodox-layout]: https://configure.zsa.io/ergodox-ez/layouts/q9bn4/latest/0
 [ergodox-pdf]: ./ergodox-layout.pdf
 
 ### Features
