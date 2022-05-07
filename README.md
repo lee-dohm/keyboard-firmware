@@ -2,16 +2,16 @@
 
 This is the firmware definition for my keyboards:
 
-* [Ergodox EZ Shine][ergodox] with Cherry MX Blue keyswitches
-* [Moonlander Mk I][moonlander] with Cherry MX Blue keyswitches
-* [Planck EZ Glow][planck] with Cherry MX Brown keyswitches
+* [Ergodox EZ Glow][ergodox] with Cherry MX Blue keyswitches as my daily driver
+* [Moonlander Mk I][moonlander] with Cherry MX Blue keyswitches on my gaming machine
+* [Planck EZ Glow][planck] with Cherry MX Brown keyswitches plugged into my Xbox for the occasional text input in games or bug reporting
 
 The firmware for each was built using the [ZSA Graphical Configurator][configurator] (aka "Oryx").
 
 [configurator]: https://configure.ergodox-ez.com/layouts/default/latest/0
 [ergodox]: https://ergodox-ez.com/
 [moonlander]: https://www.zsa.io/moonlander
-[planck]: https://ergodox-ez.com/pages/planck
+[planck]: https://www.zsa.io/planck/
 
 ## Ergodox Layout
 
