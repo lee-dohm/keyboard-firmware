@@ -1,0 +1,75 @@
+QMK Firmware 0.17.0
+Making [1mergodox_ez/glow[0m with keymap [1m4ce111e4388202449d02[0m
+
+avr-gcc (GCC) 5.4.0
+Copyright (C) 2015 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+Compiling: keyboards/ergodox_ez/matrix.c                                                           Compiling: keyboards/ergodox_ez/ergodox_ez.c                                                       Compiling: .build/obj_ergodox_ez_glow/src/default_keyboard.c                                       Compiling: keyboards/ergodox_ez/keymaps/4ce111e4388202449d02/keymap.c                              Compiling: quantum/quantum.c                                                                       Compiling: quantum/send_string.c                                                                    [32;01m[OK][0m
+ [32;01m[OK][0m
+Compiling: quantum/bitwise.c                                                                        [32;01m[OK][0m
+Compiling: quantum/led.c                                                                            [32;01m[OK][0m
+ [32;01m[OK][0m
+Compiling: quantum/action.c                                                                         [32;01m[OK][0m
+Compiling: quantum/action_layer.c                                                                  Compiling: quantum/action_tapping.c                                                                Compiling: quantum/action_util.c                                                                    [32;01m[OK][0m
+Compiling: quantum/eeconfig.c                                                                       [32;01m[OK][0m
+ [32;01m[OK][0m
+Compiling: quantum/keyboard.c                                                                      Compiling: quantum/keymap_common.c                                                                  [32;01m[OK][0m
+ [32;01m[OK][0m
+Compiling: quantum/keycode_config.c                                                                 [32;01m[OK][0m
+Compiling: quantum/sync_timer.c                                                                    Compiling: quantum/logging/debug.c                                                                  [32;01m[OK][0m
+Compiling: quantum/logging/sendchar.c                                                               [32;01m[OK][0m
+ [32;01m[OK][0m
+ [32;01m[OK][0m
+Compiling: quantum/matrix_common.c                                                                  [32;01m[OK][0m
+Compiling: quantum/debounce/sym_eager_pr.c                                                         Compiling: quantum/bootmagic/magic.c                                                               Compiling: quantum/main.c                                                                           [32;01m[OK][0m
+ [32;01m[OK][0m
+Compiling: quantum/color.c                                                                         Compiling: quantum/rgb_matrix/rgb_matrix.c                                                          [32;01m[OK][0m
+Compiling: quantum/rgb_matrix/rgb_matrix_drivers.c                                                  [32;01m[OK][0m
+Compiling: lib/lib8tion/lib8tion.c                                                                  [32;01m[OK][0m
+ [32;01m[OK][0m
+ [32;01m[OK][0m
+Compiling: drivers/led/issi/is31fl3731.c                                                           Compiling: quantum/process_keycode/process_rgb.c                                                   Compiling: quantum/led_tables.c                                                                     [32;01m[OK][0m
+Compiling: quantum/oryx.c                                                                           [32;01m[OK][0m
+Compiling: platforms/avr/drivers/i2c_master.c                                                       [32;01m[OK][0m
+Assembling: platforms/avr/xprintf.S                                                                 [32;01m[OK][0m
+Compiling: platforms/avr/printf.c                                                                   [32;01m[OK][0m
+ [32;01m[OK][0m
+Compiling: tmk_core/protocol/host.c                                                                 [32;01m[OK][0m
+Compiling: tmk_core/protocol/report.c                                                              Compiling: tmk_core/protocol/usb_device_state.c                                                     [32;01m[OK][0m
+Compiling: tmk_core/protocol/usb_util.c                                                             [32;01m[OK][0m
+Compiling: platforms/suspend.c                                                                      [32;01m[OK][0m
+Compiling: platforms/avr/hardware_id.c                                                              [32;01m[OK][0m
+Compiling: platforms/avr/platform.c                                                                 [32;01m[OK][0m
+Compiling: platforms/avr/suspend.c                                                                  [32;01m[OK][0m
+ [32;01m[OK][0m
+ [32;01m[OK][0m
+Compiling: platforms/avr/timer.c                                                                   Compiling: platforms/avr/bootloaders/halfkay.c                                                     Compiling: tmk_core/protocol/lufa/lufa.c                                                            [32;01m[OK][0m
+ [32;01m[OK][0m
+Compiling: tmk_core/protocol/usb_descriptor.c                                                      Compiling: lib/lufa/LUFA/Drivers/USB/Class/Common/HIDParser.c                                       [32;01m[OK][0m
+ [32;01m[OK][0m
+Compiling: lib/lufa/LUFA/Drivers/USB/Core/AVR8/Device_AVR8.c                                       Compiling: lib/lufa/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.c                                [32;01m[OK][0m
+Compiling: lib/lufa/LUFA/Drivers/USB/Core/AVR8/Endpoint_AVR8.c                                      [32;01m[OK][0m
+Compiling: lib/lufa/LUFA/Drivers/USB/Core/AVR8/Host_AVR8.c                                          [32;01m[OK][0m
+ [32;01m[OK][0m
+Compiling: lib/lufa/LUFA/Drivers/USB/Core/AVR8/Pipe_AVR8.c                                         Compiling: lib/lufa/LUFA/Drivers/USB/Core/AVR8/PipeStream_AVR8.c                                    [32;01m[OK][0m
+ [32;01m[OK][0m
+Compiling: lib/lufa/LUFA/Drivers/USB/Core/AVR8/USBInterrupt_AVR8.c                                 Compiling: lib/lufa/LUFA/Drivers/USB/Core/AVR8/USBController_AVR8.c                                 [32;01m[OK][0m
+Compiling: lib/lufa/LUFA/Drivers/USB/Core/ConfigDescriptors.c                                       [32;01m[OK][0m
+Compiling: lib/lufa/LUFA/Drivers/USB/Core/DeviceStandardReq.c                                       [32;01m[OK][0m
+ [32;01m[OK][0m
+Compiling: lib/lufa/LUFA/Drivers/USB/Core/Events.c                                                 Compiling: lib/lufa/LUFA/Drivers/USB/Core/HostStandardReq.c                                         [32;01m[OK][0m
+ [32;01m[OK][0m
+ [32;01m[OK][0m
+ [32;01m[OK][0m
+ [32;01m[OK][0m
+Compiling: tmk_core/protocol/lufa/usb_util.c                                                       Archiving: .build/obj_ergodox_ez_glow_4ce111e4388202449d02/i2c_master.o                            Compiling: lib/lufa/LUFA/Drivers/USB/Core/USBTask.c                                                 [32;01m[OK][0m
+ [32;01m[OK][0m
+ [32;01m[OK][0m
+ [32;01m[OK][0m
+Linking: .build/ergodox_ez_glow_4ce111e4388202449d02.elf                                            [32;01m[OK][0m
+Creating load file for flashing: .build/ergodox_ez_glow_4ce111e4388202449d02.hex                    [32;01m[OK][0m
+Copying ergodox_ez_glow_4ce111e4388202449d02.hex to qmk_firmware folder                             [32;01m[OK][0m
+Checking file size of ergodox_ez_glow_4ce111e4388202449d02.hex                                      [32;01m[OK][0m
+ * The firmware size is fine - 24816/32256 (76%, 7440 bytes free)
